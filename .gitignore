@@ -1,0 +1,9 @@
+# Dataset (PianoVAM is CC BY-NC-SA 4.0 and ~1.5 GB here): download it with the notebooks instead
+data/
+# Cached model predictions
+results/**/preds/
+# Python / notebook clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

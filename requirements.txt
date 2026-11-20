@@ -1,0 +1,9 @@
+torch
+numpy
+pandas
+soundfile
+librosa
+matplotlib
+mir_eval
+huggingface_hub
+piano_transcription_inference
